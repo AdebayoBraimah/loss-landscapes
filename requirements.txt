@@ -3,3 +3,9 @@ matplotlib
 tqdm
 torch
 torchvision
+
+# Extras
+jupyterlab
+notebook
+black
+flake8
