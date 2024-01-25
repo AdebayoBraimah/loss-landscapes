@@ -5,6 +5,7 @@ Env/
 
 # data
 data/
+__pycache__/
 
 # debugging files
 tests/paste.txt
